@@ -1,0 +1,10 @@
+
+
+nav{
+    background-image: url(imagens/fundin.jpg) ;
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    z-index: 999;
+}
